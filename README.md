@@ -11,7 +11,7 @@ This is a simple straight forward application where you can enter the details of
 ![App Screenshot](/public/ss1.png)
 ![App Screenshot](/public/ss2.png)
 ![App Screenshot](/public/ss3.png)
-![App Screenshot](/public/ss4.png)
+![App Screenshot](/public/ss5.png)
 
 
 ## Tech Stack
